@@ -1,11 +1,13 @@
+#!/bin/sh
+
 set -e
-if [ $(npm whoami) != 'lordfriend' ]; then
-    echo 'use invalid'
+if [ $(npm whoami) != 'tundrawork' ]; then
+    echo 'please fork your own version'
     exit 1;
 fi
 
 if [ $(git describe --contains --all HEAD) != 'master' ]; then
-    echo 'publish must be done at master branch'
+    echo 'publish must be done on master branch'
     exit 1;
 fi
 echo 'user and branch valid, run test'

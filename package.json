@@ -1,10 +1,10 @@
 {
-  "name": "deneb-ui",
-  "author": "Bob Yuan",
-  "description": "UI building blocks for project Deneb",
-  "version": "1.0.0",
+  "name": "altair-ui",
+  "author": "Bob Yuan, Tundra Work",
+  "description": "UI building blocks for project Altair",
+  "version": "1.0.2",
   "module": "./index.js",
-  "repository": "https://github.com/lordfriend/Deneb-UI.git",
+  "repository": "https://github.com/ProjectSummerTriangle/Altair-UI.git",
   "license": "MIT",
   "keywords": [
     "angular",
