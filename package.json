@@ -20,7 +20,7 @@
   "scripts": {
     "server:dev": "webpack-dev-server --config webpack.dev.js --progress --profile --watch --content-base .",
     "start": "npm run server:dev",
-    "test": "karma start",
+    "test": "./node_modules/karma/bin/karma start --single-run",
     "webpack-dev-server": "webpack-dev-server",
     "webpack": "webpack",
     "postinstall": "node scripts/font-fix.js"
