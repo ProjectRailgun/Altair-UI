@@ -23,6 +23,6 @@ Notice: import `BrowserAnimationsModule` in your application module when using `
 
 ## Lisence
 
-This project is licensed under the GNU Affero General Public License v3.0. You could obtain a copy of the license by downloading the [LICENSE](LICENSE) file in the repository.
+This project is licensed under The MIT License. You could obtain a copy of the license by downloading the [LICENSE](LICENSE) file in the repository.
 
 This project is based on [lordfriend/Deneb-UI](https://github.com/lordfriend/Deneb-UI) by Nyasoft. Thanks for his/her brilliant work.
